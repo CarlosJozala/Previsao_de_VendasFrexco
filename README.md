@@ -1,9 +1,9 @@
 # :chart_with_upwards_trend: Previsão de Vendas da Frexco com Python
 
-Neste projeto foi desenvolvida uma previsão de vendas com o python para um Desafio da Frexco, por meio de inteligência artifical, extraindo informações de uma planilha em XLSX, por meio de bibliotecas como: Pandas e Numpy.
+Neste projeto foi desenvolvida uma previsão de vendas com o python para um Desafio da Frexco, por meio de Regressão Linear, extraindo informações de uma planilha em XLSX, por meio de bibliotecas como: Pandas, Numpy, Sklearn e MatPlotlib para Plotagem de gráfico.
 
 # :bookmark_tabs:	Objetivo do Projeto
-Criar uma previsão de vendas de cinco dias com base nos dados.
+Criar uma previsão de vendas de cinco dias com base nos Dados. Foram criados também uma linha de venda média para melhor visualização e parametrização.
 
 # 💻 Miscelânia
 
